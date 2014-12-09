@@ -92,6 +92,6 @@ a{
   cursor: pointer;
 }
 #home_sidebar ul li:hover{
-  color: rgb(173, 255, 249);
+  color: rgb(173, 255, 250);
   text-decoration: underline;
 }
